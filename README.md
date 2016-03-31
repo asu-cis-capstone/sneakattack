@@ -1,4 +1,4 @@
-#Name: SneakAttack
+#SneakAttack
 Repo for team SneakAttack
 
 **Members**: Morris Nguyen, Nathan Brown, Bin Bin Zhu, Zhenbang Liu
