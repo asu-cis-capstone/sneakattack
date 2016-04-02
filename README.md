@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/sneakattack.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/sneakattack)
 #SneakAttack
 Repo for team SneakAttack
 
