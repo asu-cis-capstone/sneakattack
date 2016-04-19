@@ -11,7 +11,7 @@ The time it needs to process an order as well as the overall usability. We plan 
 
 ##Sprint Review #1:
 Transition from Mobile App to Chrome Extension
-As a group, we decided to utilize a chrome extension for the overall inital design purposes prior to attempting to implementing a moble app for this project. We do intend to try and configure an app at a later date. We still have a general mockup of the design concepts of the mobile app.
+As a group, we decided to utilize a chrome extension for the overall inital design purposes prior to attempting to implementing a moble app for this project. We do intend to try and configure an app at a later date. We still have a general mockup of the design concepts of the mobile app. For the review, we went over our mobile app, how it would/will look, and talked about our future plans and goals towards completing this app.
 
 ##Sprint Review #2: 
 We successfully created a prototype version 1.1 of the SneakAttack chrome extension. This is an extension that can be installed on any chrome browser that when used, will store the data locally from the user, which can then be used to purchase sneakers.
