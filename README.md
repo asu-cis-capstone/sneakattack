@@ -8,3 +8,6 @@ A problem that some people face is having to suffer the embarrassment of not hav
 
 ###Measurement Plan:
 The time it needs to process an order as well as the overall usability. We plan on collecting the data from students located throughout campus. We plan on at least getting a sample size of 10-20 particpants, on the two measurements.
+
+####Transisition from Mobile App to Chrome Extension
+As a group, we decided to utilize a chrome extension for the overall inital design purposes prior to attempting to implementing a moble app for this project. We do intend to try and configure an app at a later date. 
