@@ -18,3 +18,4 @@ We successfully created a prototype version 1.1 of the SneakAttack chrome extens
 We also collected data from individuals who are "sneaker-enthusiasts", or people who really like shoes. We asked them multiple questions regarding about how they obtain new information regarding when new sneakers come out, how they go about making purchases, and what their thoughts are about our prototype.
 
 ##Sprint Review #3:
+We updated the logo with a more modern, sleek one that can better represent our idea to our targeted audience/customers. We also created a company website that has information about our product, a way they can obtain it, and a way they can subscribe to our newsletter for updates.
